@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-25T13:20:16 IST" name="Suite" finished-at="2021-04-25T13:20:16 IST" duration-ms="136">
+    <groups>
+    </groups>
+    <test started-at="2021-04-25T13:20:16 IST" name="Test" finished-at="2021-04-25T13:20:16 IST" duration-ms="136">
+      <class name="mohit_classroom.Mavenjava.seleniumTest">
+        <test-method signature="browserautomation()[pri:0, instance:mohit_classroom.Mavenjava.seleniumTest@6973bf95]" started-at="2021-04-25T13:20:16 IST" name="browserautomation" finished-at="2021-04-25T13:20:16 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserautomation -->
+        <test-method signature="elementsui()[pri:0, instance:mohit_classroom.Mavenjava.seleniumTest@6973bf95]" started-at="2021-04-25T13:20:16 IST" name="elementsui" finished-at="2021-04-25T13:20:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsui -->
+      </class> <!-- mohit_classroom.Mavenjava.seleniumTest -->
+      <class name="mohit_classroom.Mavenjava.restapiTest">
+        <test-method signature="deletetwitter()[pri:0, instance:mohit_classroom.Mavenjava.restapiTest@2ddc8ecb]" started-at="2021-04-25T13:20:16 IST" name="deletetwitter" finished-at="2021-04-25T13:20:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletetwitter -->
+        <test-method signature="postjira()[pri:0, instance:mohit_classroom.Mavenjava.restapiTest@2ddc8ecb]" started-at="2021-04-25T13:20:16 IST" name="postjira" finished-at="2021-04-25T13:20:16 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postjira -->
+      </class> <!-- mohit_classroom.Mavenjava.restapiTest -->
+      <class name="mohit_classroom.Mavenjava.appiumTest">
+        <test-method signature="iosapps()[pri:0, instance:mohit_classroom.Mavenjava.appiumTest@6ce139a4]" started-at="2021-04-25T13:20:16 IST" name="iosapps" finished-at="2021-04-25T13:20:16 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosapps -->
+        <test-method signature="nativeappandroid()[pri:0, instance:mohit_classroom.Mavenjava.appiumTest@6ce139a4]" started-at="2021-04-25T13:20:16 IST" name="nativeappandroid" finished-at="2021-04-25T13:20:16 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeappandroid -->
+      </class> <!-- mohit_classroom.Mavenjava.appiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
